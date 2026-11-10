@@ -1,0 +1,6 @@
+{
+  "name": "CleanBot AI",
+  "description": "Single-robot autonomous office cleaning management and simulation system with interactive floor mapping, telemetry, and automated workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
